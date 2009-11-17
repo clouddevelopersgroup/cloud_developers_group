@@ -12,7 +12,7 @@ body {
   clear: both;
 }
 #col-1 {
-  width: 550px;
+  width: 700px;
   text-align: justify;
   padding-right: 10px;
   float: left;
@@ -175,7 +175,7 @@ label {
   width: 870px;
   padding-left: 22px;
   padding-right: 8px;
-}
+} 
 input {
   width: 400px;
   border: 2px solid #CCCCCC;
@@ -183,10 +183,6 @@ input {
 textarea {
   width: 400px;
   border: 2px solid #CCCCCC;
-}
-#footer {
-  padding: 20px;
-  text-align: center;
 }
 #header p a {
   color: #FFFFFF;
@@ -235,7 +231,7 @@ td:hover {
 td {
   padding: 10px;
   border: 2px solid #EBEBEB;
-}
+} 
 table {
   border: 2px solid #EBEBEB;
   border-collapse: collapse;
@@ -258,4 +254,19 @@ blockquote {
   margin-left: 30px;
   background-color: #EBEBEB;
   border: 1px dotted #CCCCCC;
+}
+#footer {
+  line-height: 1.5em;
+  font-size: 10px;
+  color: #555555;
+  padding: 20px;
+  text-align: right;
+}
+#footer a {
+  font-size: 10px;
+  color: #555555;
+}
+#footer div {
+ display:inline-block;
+ vertical-align: top;
 }
