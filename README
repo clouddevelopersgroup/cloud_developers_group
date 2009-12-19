@@ -1,13 +1,6 @@
-------------------------------
-------------------------------
---
--- Cloud Developers Group website
---
--- Licensed under the MIT license.
--- Copyright (c) 2009 Michael D. Hall
---
-------------------------------
-------------------------------
+Cloud Developers Group website
+Licensed under the MIT license.
+Copyright (c) 2009 Michael D. Hall
 
 Long-term inspiration to be modeled after bloog. A RESTful blog for Google App Engine.
 http://github.com/DocSavage/bloog
